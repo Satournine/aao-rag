@@ -9,4 +9,3 @@ casenv/
 .venv/
 data/raw/
 data/*.pdf
-*.ipynb
